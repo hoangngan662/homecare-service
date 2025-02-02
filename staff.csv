@@ -1,0 +1,20 @@
+﻿Fullname,Address,Email,PhoneNumber,Password,DoB,Specialization,StartDate,Roles
+Ngân Lê,123 Đường Sen,ngan.le@example.com,0123456781,Password123,12/25/1980,Kiểm tra sức khỏe tổng quát,01/01/2024,Admin
+Thùy Trang,456 Đường Hoa,thuy.trang@example.com,0123456782,Password456,06/15/1995,Xét nghiệm da liễu,01/01/2024,Patient
+Minh Hằng,789 Đường Phong,h.minh@example.com,0123456783,Password789,03/12/1988,Xét nghiệm cơ xương khớp,01/01/2024,Staff
+Hoàng Nam,101 Đường Tùng,nam.hoang@example.com,0123456784,Password101,02/20/1985,Xét nghiệm tuyến giáp,01/01/2024,Staff
+Bích Ngọc,202 Đường Bạch,ngoc.bich@example.com,0123456785,Password202,07/30/1990,Xét nghiệm thai lưu,01/01/2024,Staff
+Thanh Tùng,303 Đường Hương,tung.thanh@example.com,0123456786,Password303,11/14/1982,Kiểm tra định kì viêm gan B,01/01/2024,Staff
+Hải Yến,404 Đường Cúc,yen.hai@example.com,0123456787,Password404,04/22/1993,Chăm sóc người bệnh không lây nhiễm,01/01/2024,Staff
+Phương Anh,505 Đường Phượng,anh.phuong@example.com,0123456788,Password505,09/18/1986,Vật lý trị liệu và phục hồi chức năng,01/01/2024,Staff
+Đức Dũng,606 Đường Đào,dung.duc@example.com,0123456789,Password606,01/07/1989,Chăm sóc người lớn tuổi,01/01/2024,Staff
+Mai Linh,707 Đường Ngọc,linh.mai@example.com,0123456790,Password707,05/19/1992,Khám vi chất trẻ em,01/01/2024,Staff
+Bảo Khánh,808 Đường Lê,khanh.bao@example.com,0123456791,Password808,08/28/1987,Chăm sóc sau phẫu thuật,01/01/2024,Staff
+Hồng Phúc,909 Đường Quế,phuc.hong@example.com,0123456792,Password909,10/10/1991,Tầm soát ung thư toàn diện,01/01/2024,Staff
+Lan Hương,1010 Đường Mai,huong.lan@example.com,0123456793,Password1010,12/12/1983,Kiểm tra sức khỏe tổng quát,01/01/2024,Staff
+Thảo Vy,1111 Đường Bồ,vy.thao@example.com,0123456794,Password111,03/23/1985,Xét nghiệm da liễu,01/01/2024,Staff
+Lê Duy,1212 Đường Trúc,duy.le@example.com,0123456795,Password1212,11/05/1994,Xét nghiệm cơ xương khớp,01/01/2024,Staff
+An Bình,1313 Đường Sen,binh.an@example.com,0123456796,Password1313,02/14/1990,Xét nghiệm tuyến giáp,01/01/2024,Staff
+Cẩm Nhung,1414 Đường Liễu,nhung.cam@example.com,0123456797,Password1414,06/07/1982,Xét nghiệm thai lưu,01/01/2024,Staff
+Linh Chi,1515 Đường Hoa,chi.linh@example.com,0123456798,Password1515,07/21/1996,Kiểm tra định kì viêm gan B,01/01/2024,Staff
+Quốc Huy,1616 Đường Thạch,huy.quoc@example.com,0123456799,Password1616,09/17/1988,Chăm sóc người bệnh không lây nhiễm,01/01/2024,Staff

@@ -1,0 +1,31 @@
+﻿Id,PatientName,PhoneNumber,Service,Message,InquiryDate,Status,Note
+1,Nguyễn An Nhiên,0123456789,Kiểm tra sức khỏe tổng quát,Tư vấn chọn gói kiểm tra tổng quát,01/05/2024,0,Khách hàng lần đầu liên hệ
+2,Trần Hà Phương,0987654321,Xét nghiệm da liễu,Hỏi về quy trình và chi phí xét nghiệm da,01/06/2024,1,Đang chờ thêm thông tin
+3,Lê Kiên Cường,0912345678,Vật lý trị liệu và phục hồi chức năng,Quan tâm đến vật lý trị liệu sau chấn thương,01/07/2024,0,Đã gửi thông tin gói dịch vụ
+4,Phạm Tuấn Minh,0976543210,Chăm sóc người lớn tuổi,Hỏi về dịch vụ chăm sóc định kỳ,01/08/2024,1,Khách hàng yêu cầu tư vấn trực tiếp
+5,Vũ Hồng Diễm,0934567890,Tầm soát ung thư toàn diện,Muốn tư vấn gói tầm soát ung thư,01/09/2024,0,Khách hàng quan tâm đến dịch vụ toàn diện
+6,Đỗ Ngọc Lan,0901234567,Kiểm tra định kì viêm gan B,Yêu cầu kiểm tra viêm gan định kỳ,01/10/2024,1,Khách hàng quay lại
+7,Bùi Phúc Lộc,0923456789,Chăm sóc sau phẫu thuật,Tư vấn dịch vụ chăm sóc hồi phục sau phẫu thuật,01/11/2024,0,Đã cung cấp gói chăm sóc sau phẫu thuật
+8,Hoàng Nguyên Đạt,0897654321,Xét nghiệm cơ xương khớp,Muốn biết chi phí xét nghiệm cơ xương khớp,01/12/2024,0,Hỏi thêm về chi phí
+9,Nguyễn Kim Tuyến,0845671234,Xét nghiệm tuyến giáp,Tư vấn gói xét nghiệm tuyến giáp,01/13/2024,1,Yêu cầu thêm về phương pháp xét nghiệm
+10,Trần Bảo Anh,0834567891,Khám vi chất trẻ em,Quan tâm đến dịch vụ khám vi chất cho con,01/14/2024,0,Đã gửi thông tin gói khám vi chất
+11,Lê Việt Hưng,0823456789,Chăm sóc người bệnh không lây nhiễm,Muốn đăng ký chăm sóc bệnh lâu dài,01/15/2024,1,Đã tư vấn chăm sóc dài hạn
+12,Phạm Thanh Hòa,0812345678,Kiểm tra sức khỏe tổng quát,Hỏi về gói kiểm tra định kỳ,01/16/2024,0,Khách hàng hỏi dịch vụ định kỳ
+13,Vũ Minh Khánh,0801234567,Xét nghiệm thai lưu,Tư vấn quy trình xét nghiệm thai lưu,01/17/2024,1,Đang chờ xác nhận từ khách
+14,Đỗ Quang Hải,0798765432,Tầm soát ung thư toàn diện,Quan tâm đến tầm soát định kỳ,01/18/2024,0,Đã tư vấn gói toàn diện
+15,Bùi Tú Anh,0787654321,Chăm sóc người lớn tuổi,Hỏi về chăm sóc người già tại nhà,01/19/2024,1,Khách hàng yêu cầu thêm thông tin
+16,Hoàng Duy Linh,0776543210,Xét nghiệm da liễu,Tìm hiểu về xét nghiệm da,01/20/2024,0,Khách hàng quan tâm dịch vụ da liễu
+17,Nguyễn Tâm Đan,0765432109,Vật lý trị liệu và phục hồi chức năng,Tìm dịch vụ phục hồi chức năng,01/21/2024,1,Khách hàng cần phục hồi sau phẫu thuật
+18,Trần Hữu Tâm,0754321098,Kiểm tra sức khỏe tổng quát,Quan tâm đến kiểm tra sức khỏe tổng quát,01/22/2024,0,Đã gửi gói kiểm tra
+19,Lê Thắng,0743210987,Chăm sóc người bệnh không lây nhiễm,Tư vấn dịch vụ chăm sóc bệnh,01/23/2024,1,Đã nhận tư vấn
+20,Phạm Văn Sơn,0732109876,Chăm sóc sau phẫu thuật,Muốn được hỗ trợ sau phẫu thuật,01/24/2024,0,Đang tư vấn dịch vụ hậu phẫu
+21,Vũ Như Quỳnh,0721098765,Kiểm tra định kì viêm gan B,Quan tâm đến xét nghiệm viêm gan,01/25/2024,1,Đã tư vấn dịch vụ định kỳ
+22,Đỗ Chí Tâm,0710987654,Tầm soát ung thư toàn diện,Hỏi về các dịch vụ ung thư,01/26/2024,0,Khách hàng quan tâm dịch vụ toàn diện
+23,Bùi Kim Chi,0709876543,Xét nghiệm tuyến giáp,Muốn tư vấn xét nghiệm tuyến giáp,01/27/2024,1,Đang chờ phản hồi
+24,Hoàng Vĩnh Phú,0698765432,Khám vi chất trẻ em,Quan tâm đến khám vi chất cho trẻ,01/28/2024,0,Khách hàng lần đầu liên hệ
+25,Nguyễn Xuân Hương,0687654321,Chăm sóc người lớn tuổi,Tư vấn chăm sóc người già,01/29/2024,1,Đã tư vấn gói dịch vụ
+26,Trần Ngọc Quyên,0676543210,Kiểm tra sức khỏe tổng quát,Tìm dịch vụ kiểm tra sức khỏe,01/30/2024,0,Khách hàng yêu cầu tư vấn
+27,Lê Thái Vương,0665432109,Xét nghiệm da liễu,Tìm hiểu về quy trình xét nghiệm da,01/31/2024,1,Đã cung cấp thông tin
+28,Phạm Khải Hoàn,0654321098,Vật lý trị liệu và phục hồi chức năng,Tư vấn vật lý trị liệu,02/01/2024,0,Khách hàng cần tư vấn
+29,Vũ Thùy Linh,0643210987,Kiểm tra định kì viêm gan B,Quan tâm đến gói kiểm tra định kỳ,02/02/2024,1,Đang chờ thêm thông tin
+30,Đỗ Khánh Huy,0632109876,Chăm sóc người bệnh không lây nhiễm,Muốn đăng ký chăm sóc lâu dài,02/03/2024,0,Đã gửi gói chăm sóc bệnh
